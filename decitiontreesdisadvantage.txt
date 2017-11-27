@@ -1,0 +1,3 @@
+Disadvantages of decision trees:
+For data including categorical variables with different number of levels, information gain in decision trees is biased in favor of those attributes with more levels.
+Calculations can get very complex, particularly if many values are uncertain and/or if many outcomes are linked.
